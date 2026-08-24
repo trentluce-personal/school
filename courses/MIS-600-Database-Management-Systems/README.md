@@ -65,3 +65,8 @@ design → Ch. 9 big data → Ch. 11 analytics → Ch. 13 object-oriented modeli
 - `in-class-exercises/` — the 10 exercises, numbered. The course's own term for these.
 - `assignments/` — per-chapter homework (quiz, matching, written).
 - `resources/` — syllabus and anything the instructor hands out.
+
+## Source documents
+| | Markdown (readable) | Original (authoritative) |
+|---|---|---|
+| Syllabus | [.md](resources/mis-600-syllabus-fall-2026.md) | [.html](resources/mis-600-syllabus-fall-2026.html) |

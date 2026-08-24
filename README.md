@@ -51,6 +51,8 @@ scripts/           Small utilities that keep this repo tidy
 - Every cleaned dataset in `datasets/clean/` has the script that produced it next to it.
   If I can't rerun it, it isn't clean, it's just a file.
 - Notes go in Markdown, not Word, so diffs are readable and search works.
+- Syllabi and handouts get a Markdown copy next to the original. The original
+  file stays put and stays authoritative; the `.md` is for reading and grepping.
 - No credentials, connection strings, or API keys. Ever. Use a local `.env` that git ignores.
 - No graded work from other students, and nothing that would violate WSU's academic
   integrity policy if the repo were public. Assume it will be.
@@ -69,16 +71,6 @@ Junior, undergraduate, Barton School of Business, Info Tech & Mgmt Information S
 
 ACCT 210 and DS 350 are back-to-back 8-week courses with one day between them.
 No folders for DS 350 or ENTR 310 yet — nothing to put in them.
-
-## A note on AI
-
-Both syllabi I have so far prohibit generative AI by default, allowing it only where an
-assignment permits it in writing. Assume that's the rule for every course here unless a
-specific assignment says otherwise. Details: [MIS 600 AI policy](courses/MIS-600-Database-Management-Systems/notes/ai-policy.md).
-
-ACCT 210 also bans uploading course assessments to Chegg, Course Hero, and similar
-sites. Keep this repo **private** — quiz and exam material in a public repo would be a
-conduct violation regardless of intent.
 
 ## Status
 

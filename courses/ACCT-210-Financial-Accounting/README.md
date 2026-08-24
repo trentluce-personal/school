@@ -69,3 +69,9 @@ expense recognition, deferrals and accruals, bad debts, and cash.
 - `notes/` — chapter notes
 - `assignments/` — my work, by chapter
 - `resources/` — syllabus and assignment schedule
+
+## Source documents
+| | Markdown (readable) | Original (authoritative) |
+|---|---|---|
+| Syllabus | [.md](resources/acct-210-syllabus-fall-2026.md) | [.pdf](resources/acct-210-syllabus-fall-2026.pdf) |
+| Assignment schedule | [.md](resources/acct-210-assignment-schedule-fall-2026.md) | [.pdf](resources/acct-210-assignment-schedule-fall-2026.pdf) |
