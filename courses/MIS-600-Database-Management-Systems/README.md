@@ -54,8 +54,6 @@ design and the relational model → Ch. 5–6 SQL and advanced SQL → Ch. 8 phy
 design → Ch. 9 big data → Ch. 11 analytics → Ch. 13 object-oriented modeling.
 
 ## Ground rules worth remembering
-- **AI is prohibited** in this course except where an assignment turns it on in writing.
-  Week 1 explicitly turns it off. See [notes/ai-policy.md](notes/ai-policy.md).
 - Email must have **"MIS 600" in the subject line**, sent from the WSU address, signed.
 - Tech problems go to Blackboard Support (316-978-3909), not the instructor.
 - Check WSU email daily; log into Blackboard 3×/week.

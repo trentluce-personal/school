@@ -110,8 +110,6 @@ All students should familiarize themselves with the course-related policies and 
 
 - Important Academic Dates
 - Inclement Weather Event and Emergency Event
-- Academic Integrity
-- Unauthorized Use of Generative AI
 - Personal Identity Updates
 - Concealed Carry Policy
 - Video and Audio Recording
@@ -178,13 +176,6 @@ Each instructional module concludes with a chapter quiz designed to assess under
 ### Examinations
 
 Four examinations are administered throughout the semester. Unlike the weekly assignments, examinations are completed during designated testing windows (24 hours) as published on the Assignment Schedule. (an exception is being made for Exam Four) Each examination is administered through Blackboard using Honorlock. Students are responsible for reviewing the separate Testing Expectations & Honorlock Addendum prior to each examination.
-
-## Academic Integrity
-
-Students are expected to uphold the highest standards of academic integrity and are responsible for knowing and following Wichita State University's Student Academic Integrity Policy. In this course, all coursework (including Modular Activities, homework assignments, chapter quizzes, and examinations) must represent each student's own work unless collaboration is specifically authorized. The unauthorized use of generative artificial intelligence (AI) tools, including ChatGPT and similar technologies, is prohibited unless expressly permitted within the assignment instructions. Students may be asked to demonstrate mastery of assignment learning outcomes through an alternate assessment if questions arise regarding the originality of submitted work. Students should also be aware that:
-
-- Selling or distributing proprietary course materials through websites or services such as Chegg, Course Hero, or similar platforms is prohibited and may result in referral to the Office of Student Conduct and Community Standards.
-- Uploading, photographing, reproducing, or sharing course assessments is prohibited. Violations of academic integrity will be handled in accordance with Wichita State University policy and may result in academic sanctions and referral to the Office of Student Conduct and Community Standards.
 
 ## Assignment Availability
 

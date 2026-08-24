@@ -62,8 +62,6 @@ expense recognition, deferrals and accruals, bad debts, and cash.
 - Put **"ACCT 210" in the email subject line**; include full name.
 - Grade disputes must be raised **within one week** of the due date or grade posting.
 - Blackboard is the official gradebook, not Cengage.
-- AI prohibited unless an assignment permits it in writing. Uploading course
-  assessments to Chegg/Course Hero is a conduct violation.
 
 ## Folders
 - `notes/` — chapter notes

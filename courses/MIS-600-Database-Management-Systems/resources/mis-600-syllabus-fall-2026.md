@@ -124,15 +124,6 @@ Although you may attempt to reach me by phone, email communication is always pre
 To Email and Ask My Instructor Questions: I will respond within 24-48 hours during weekdays, and longer on weekends.
 Feedback on Assignments: Grades and feedback will be provided within one week of submission.
 
-## Academic Integrity
-
-Students at Wichita State University are expected to uphold high academic standards. WSU will not tolerate a lack of academic integrity. Students are responsible for knowing and following the Student Academic Integrity Policy 2.17 (https://www.wichita.edu/about/policy/ch_02/ch2_17.php).
-When the faculty member determines sanctions are warranted for violations of academic integrity, regardless of severity, the faculty member must report the infraction to the Office of Student Conduct and Community Standards. If you need more information about the process or wish to appeal a decision, please visit <https://www.wichita.edu/about/student_conduct/ai.php>.
-
-## Unauthorized Use of Generative AI
-
-Please note in particular that Unauthorized Use or Possession of Materials or Resources (Policy 2.17, item IV.B.2) includes unauthorized use of generative AI like ChatGPT or GPT4. In this course, all use of generative AI is prohibited except as may be specified in assignment instructions. Any student suspected of unauthorized use of generative AI may be asked to demonstrate their mastery of the assignment learning outcomes in an alternate format, such as a verbal interview or an additional problem set, before a determination is made as to whether an academic integrity violation report is warranted. Confirmed violations will be reported to the Office of Student Conduct and Community Standards and may result in a failing grade on the assignment or in the course, consistent with Policy 2.17.
-
 ## Sexual Harassment, Discrimination and Retaliation
 
 Wichita State University is committed to creating a safe and healthy environment for all of our community members. This includes the elimination of sexual misconduct, relationship violence, and stalking within the University community. These incidents may interfere with or limit an individual's ability to benefit from or fully participate in the University's educational programs.
