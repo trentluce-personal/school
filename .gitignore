@@ -1,0 +1,35 @@
+# Secrets — never commit
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+connection-strings.txt
+
+# Office temp/lock files
+~$*
+.~lock.*
+
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Node
+node_modules/
+dist/
+
+# Big / regenerable data — uncomment if datasets get large
+# datasets/raw/*.csv
