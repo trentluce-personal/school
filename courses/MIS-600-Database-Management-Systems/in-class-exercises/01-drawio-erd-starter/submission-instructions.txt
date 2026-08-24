@@ -1,0 +1,29 @@
+Everything you need is in the attached file (the Week 1 module document). It walks you through the whole thing: reading the syllabus, learning Draw.io, and drawing your three-entity ERD. Start there.
+
+
+
+When your diagram is ready, here is how to turn it in:
+
+
+
+1. In Draw.io, export your diagram as an image: File, then Export As, then PNG.
+
+
+
+2. Open Microsoft Word (free through WSU Office 365; the syllabus explains how to get it) and insert your PNG into a blank document.
+
+
+
+3. Below the diagram, type this sentence word for word: "I have read and understood the MIS 600 syllabus, including the grading structure, the automatic drop policy, and the no-late-work policy." Graduate students: add your two-to-three sentence note about your fourth entity right below it.
+
+
+
+4. Save the file as a Word document named with your last name first, then your first name: MIS600_Week1_LastName_FirstName.docx. For example: MIS600_Week1_Smith_Jordan.docx.
+
+
+
+5. Submit the Word document here by Tuesday, August 25, at 11:59 PM. No late submissions; if something goes wrong this week, the automatic drop policy in the syllabus has you covered.
+
+
+
+One Word document, one diagram, one sentence. That's the whole submission. Questions? Email me with "MIS 600" in the subject line.

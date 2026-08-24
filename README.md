@@ -16,6 +16,9 @@ courses/           One folder per course, named by course number
     labs/            In-class / hands-on exercises
     project/         Semester project, if the course has one
     resources/       Syllabus, rubrics, provided starter files
+  Template is a starting point, not a rule. Drop the folders a course
+  doesn't use, and rename one to match what the course actually calls it
+  (MIS 600 says "in-class exercises", so that folder is named that).
 practice/          Skill practice outside of any one course
   sql/               Queries, schema drills, normalization exercises
   python/            Scripts, pandas work, automation
@@ -32,7 +35,7 @@ datasets/          Data used across practice work
   raw/               As downloaded, never edited
   clean/             After cleaning, with the script that produced it
 portfolio/         Finished work worth showing in an interview
-admin/             Degree plan, course checklist, notes for advising meetings
+admin/             Degree plan, term schedule, notes for advising meetings
 scripts/           Small utilities that keep this repo tidy
 ```
 
@@ -52,6 +55,32 @@ scripts/           Small utilities that keep this repo tidy
 - No graded work from other students, and nothing that would violate WSU's academic
   integrity policy if the repo were public. Assume it will be.
 
+## Fall 2026
+
+Junior, undergraduate, Barton School of Business, Info Tech & Mgmt Information Systems.
+12 credits. Full schedule: [admin/schedule-fall-2026.pdf](admin/schedule-fall-2026.pdf).
+
+| Course | Title | Format | Runs |
+|---|---|---|---|
+| [ACCT 210](courses/ACCT-210-Financial-Accounting/) | Financial Accounting | Online, async | Aug 17 – Oct 7 (8 wk) |
+| [MIS 600](courses/MIS-600-Database-Management-Systems/) | Database Management Systems | Hybrid, Wed 7:05 PM | Aug 17 – Dec 10 |
+| DS 350 | Operations Management | Online, async | Oct 8 – Dec 3 (8 wk) |
+| ENTR 310 | The Entrepreneurial Experience | Online, async | Aug 17 – Dec 10 |
+
+ACCT 210 and DS 350 are back-to-back 8-week courses with one day between them.
+No folders for DS 350 or ENTR 310 yet — nothing to put in them.
+
+## A note on AI
+
+Both syllabi I have so far prohibit generative AI by default, allowing it only where an
+assignment permits it in writing. Assume that's the rule for every course here unless a
+specific assignment says otherwise. Details: [MIS 600 AI policy](courses/MIS-600-Database-Management-Systems/notes/ai-policy.md).
+
+ACCT 210 also bans uploading course assessments to Chegg, Course Hero, and similar
+sites. Keep this repo **private** — quiz and exam material in a public repo would be a
+conduct violation regardless of intent.
+
 ## Status
 
-Just set up. Structure is in place; content comes as the semester does.
+Structure in place. Two courses loaded with syllabi and schedules; content comes as
+the semester does.

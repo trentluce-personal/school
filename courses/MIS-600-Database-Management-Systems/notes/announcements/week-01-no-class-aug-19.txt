@@ -1,0 +1,42 @@
+No In-Person Class Tomorrow (Aug 19): Week 1 Tasks Due Aug 25
+Hello everyone, and welcome to MIS 600!
+
+
+
+A quick reminder before we begin: we do NOT meet in person tomorrow, Wednesday, August 19. Week 1 is asynchronous, and our first in-person class is Wednesday, August 26, at 7:05 PM in Woolsey Hall 220.
+
+
+
+Here is what to complete this week from home or campus:
+
+
+
+1. Read the syllabus in full. It is posted on Blackboard.
+
+
+
+2. Learn the basics of Draw.io (app.diagrams.net), the free diagramming tool we use all semester. Work through the Draw.io ER diagram guide or Dr. Soper's video walkthrough; both links are in the syllabus and the Week 1 module.
+
+
+
+3. Build a simple ERD for this mini-case: a university department offers courses, each course has sections, and students enroll in sections. Undergraduate students model at least three entities with a primary key and at least two attributes each, connected by labeled relationships. Graduate students model at least five entities, including one associative entity, and add a short paragraph (100-150 words) explaining one design decision.
+
+
+
+4. Export your diagram as PDF or PNG and submit it on Blackboard by Tuesday, August 25, at 11:59 PM. Your submission must end with this exact statement: "I have read and understood the MIS 600 syllabus, including the grading structure, the automatic drop policy, and the no-late-work policy."
+
+
+
+This assignment counts as In-Class Exercise 1 (9 points) and is graded for completion and good-faith effort, not modeling correctness. We will formally cover ER modeling in Chapters 2 and 3.
+
+
+
+One more note: I am traveling to Reno, Nevada, this week to present at the Americas Conference on Information Systems (AMCIS), and I will be back on Sunday, August 23. My email replies may be slower than usual while I am away, so please post questions in the Ask My Instructor forum on Blackboard and I will respond as soon as I can.
+
+
+
+I look forward to meeting all of you next Wednesday. Welcome to the semester, and see you on August 26!
+
+
+
+Dr. Aljohani
