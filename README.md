@@ -48,6 +48,10 @@ scripts/           Small utilities that keep this repo tidy
 
 ## Rules I'm holding myself to
 
+- **Every course ends at A- or better.** Tuition reimbursement requires a letter A;
+  A- and A both qualify, B+ does not. This is the target for every course every term,
+  so every course README carries a `Grade goal` section with the cutoff in points and
+  the margin left. Plan against the 90% line, not against 100% and not against passing.
 - Every cleaned dataset in `datasets/clean/` has the script that produced it next to it.
   If I can't rerun it, it isn't clean, it's just a file.
 - Notes go in Markdown, not Word, so diffs are readable and search works.
@@ -67,12 +71,12 @@ Junior, undergraduate, Barton School of Business, Info Tech & Mgmt Information S
 | [ACCT 210](courses/ACCT-210-Financial-Accounting/) | Financial Accounting | Online, async | Aug 17 – Oct 7 (8 wk) |
 | [MIS 600](courses/MIS-600-Database-Management-Systems/) | Database Management Systems | Hybrid, Wed 7:05 PM | Aug 17 – Dec 10 |
 | DS 350 | Operations Management | Online, async | Oct 8 – Dec 3 (8 wk) |
-| ENTR 310 | The Entrepreneurial Experience | Online, async | Aug 17 – Dec 10 |
+| [ENTR 310](courses/ENTR-310-The-Entrepreneurial-Experience/) | The Entrepreneurial Experience | Online, async | Aug 17 – Dec 10 |
 
 ACCT 210 and DS 350 are back-to-back 8-week courses with one day between them.
-No folders for DS 350 or ENTR 310 yet — nothing to put in them.
+No folder for DS 350 yet — nothing to put in it.
 
 ## Status
 
-Structure in place. Two courses loaded with syllabi and schedules; content comes as
+Structure in place. Three courses loaded with syllabi and schedules; content comes as
 the semester does.

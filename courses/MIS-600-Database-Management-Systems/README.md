@@ -10,6 +10,21 @@
 > graduate students, and nearly every assignment has a separate, larger graduate
 > version. The graduate extensions do not apply to me. Read the undergrad row.
 
+## Grade goal — A- or better (tuition reimbursement)
+
+**Need 90% of the weighted total.** Nothing missed yet. This course is far more
+forgiving than ACCT 210 because of the automatic drops — the 2 lowest scores in each
+category come off, which absorbs a bad week without any of it reaching the gradebook.
+
+Where the goal can actually be lost:
+
+- **Exams are 50% of the grade.** Exam 2 (Oct 21) is mandatory — missing it counts as
+  missing two exams, and only the top 3 of 4 scores count. The optional comprehensive
+  final (Dec 5–10) replaces the lowest exam, so plan to take it as insurance.
+- **Participation is 5% for showing up.** Free points; do not leak them.
+- The drops are the safety net, not a budget. Spending both early leaves nothing for
+  an actual emergency in November.
+
 ## Tools
 - **Draw.io** (app.diagrams.net) — ERDs, all semester. Free, no account.
 - **DB Fiddle** (dbfiddle.uk) — SQL practice.

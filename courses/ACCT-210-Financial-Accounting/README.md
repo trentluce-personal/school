@@ -11,6 +11,31 @@
 > hard deadline every Friday, Saturday, and Sunday night. **DS 350 starts Oct 8**,
 > the day after this ends — there's no gap to recover in.
 
+## Grade goal — A- or better (tuition reimbursement)
+
+**Need 540 / 600 (90%).** No dropped scores in this course, so every zero is permanent.
+
+| | Points |
+|---|---|
+| Total available | 600 |
+| Lost — Ch. 1–2 modular activities and homework (CNOW closed, confirmed Aug 24) | −20 |
+| Lost — Ch. 1–2 chapter quizzes (Blackboard, assumed closed) | −20 |
+| Best possible remaining | 560 |
+| A- floor | 540 |
+| **Margin left for the rest of the course** | **20** |
+
+Twenty points is one missed quiz plus one missed homework. What that means concretely:
+
+- **Bank all 200 remaining non-exam points.** Ch. 3–12 is 10 MAs, 10 homeworks, 10
+  quizzes. Homework allows three attempts with answers carrying over and the highest
+  score kept — there is no excuse for less than 5/5. Treat MA and HW as free points.
+- **That leaves the exams needing 340 / 360 — a 94.4% average across all four.**
+- **A single missed exam ends the goal.** Any exam zero drops the ceiling to 470/600
+  = 78% (C+). Exams 1–3 are one-day, 24-hour windows.
+
+Next checkpoint: **Exam 1 (Ch. 1–3), Aug 30, 12:01 a.m. – 11:55 p.m.** Covers the two
+chapters that were missed, so Ch. 1–2 still have to be learned, just not for credit.
+
 ## Tools
 - **Blackboard Ultra** — quizzes, exams, official gradebook
 - **Cengage CNOW** — modular activities and homework (syncs to Blackboard)

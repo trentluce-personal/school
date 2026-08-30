@@ -4,6 +4,12 @@ Track courses here as I confirm them against the official catalog and my advisor
 This file is my working copy, not the authoritative record — the Barton School
 degree audit in myWSU is.
 
+## Standing constraint
+
+Tuition reimbursement requires a **letter A in every course**. A- and A qualify; B+
+does not. Every course README carries a `Grade goal` section tracking the points
+needed and the margin remaining.
+
 ## Completed
 | Course | Title | Term | Credits | Grade |
 |--------|-------|------|---------|-------|

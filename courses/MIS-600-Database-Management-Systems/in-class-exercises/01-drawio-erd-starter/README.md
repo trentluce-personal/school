@@ -1,7 +1,8 @@
 # In-Class Exercise 1 — Draw.io ERD Starter
 
 **Due: Tuesday, Aug 25, 11:59 PM** · 9 points · submitted on Blackboard
-No late submissions. (Covered by the automatic drop policy if something goes wrong.)
+
+**Status: submitted Aug 24, 2026.** No late submissions. (Covered by the automatic drop policy if something goes wrong.)
 
 ## What I actually have to do
 
