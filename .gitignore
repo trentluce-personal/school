@@ -31,5 +31,14 @@ venv/
 node_modules/
 dist/
 
+# Repo-local OpenCode installation and private runtime data
+.opencode/bin/
+.opencode/runtime/
+.opencode/.setup-*/
+.opencode/package.json
+.opencode/package-lock.json
+.opencode/bun.lock
+.opencode/bun.lockb
+
 # Big / regenerable data — uncomment if datasets get large
 # datasets/raw/*.csv

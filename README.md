@@ -39,6 +39,54 @@ admin/             Degree plan, term schedule, notes for advising meetings
 scripts/           Small utilities that keep this repo tidy
 ```
 
+## Repo-local OpenCode
+
+OpenCode configuration and skills live in `.opencode/`. The humanizer skill
+is in `.opencode/skills/humanizer/`, not `.claude/`.
+
+On Windows, install and launch from PowerShell:
+
+```powershell
+.\scripts\setup-opencode.ps1
+.\scripts\opencode.ps1
+```
+
+If PowerShell blocks unsigned scripts, use a process-only execution policy:
+
+```powershell
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\setup-opencode.ps1
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\opencode.ps1
+```
+
+Setup downloads the pinned official Windows binary (X64 or Arm64), verifies its
+SHA-256 digest, and installs it under `.opencode/bin/`. No Node.js, npm, global
+installation, administrator access, or permanent PATH change is needed.
+Rerunning setup checks the existing installation; use `-Force` to reinstall.
+The release version and archive digests are recorded in `.opencode/install.json`.
+To upgrade, update that manifest with the official release's version and digests,
+then rerun setup. Automatic updates are disabled.
+
+Always launch through `scripts/opencode.ps1`, which forwards CLI arguments:
+
+```powershell
+.\scripts\opencode.ps1 --version
+.\scripts\opencode.ps1 auth login
+.\scripts\opencode.ps1 run "Explain the repository layout"
+```
+
+The launcher runs from the repository root and redirects OpenCode's config,
+credentials, sessions, logs, caches, helper downloads, and temporary files into
+the git-ignored `.opencode/runtime/` directory. It does not reuse your home
+directory's OpenCode configuration or skills, and restores the caller's
+environment and working directory on exit. Session sharing is disabled.
+Provider credentials still need to be configured locally using `auth login`
+or `/connect`; never commit them.
+
+This scopes OpenCode's installation and its own storage, not its tool permissions:
+it is not a filesystem sandbox, and commands or third-party tools can still
+access files outside the repository. Use the launcher rather than running the
+downloaded executable directly to retain repo-local storage.
+
 ## Naming
 
 - Course folders: `MIS-250-Intro-to-MIS` — number first so they sort in order.

@@ -1,0 +1,10 @@
+{
+  // For Windows
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  // For macOS
+  "terminal.integrated.defaultProfile.osx": "zsh",
+
+  // For Linux
+  "terminal.integrated.defaultProfile.linux": "bash"
+}

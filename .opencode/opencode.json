@@ -1,0 +1,14 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "autoupdate": false,
+  "share": "disabled",
+  "permission": {
+    "edit": "allow",
+    "bash": "allow",
+    "external_directory": "allow",
+    "rm *": "ask"
+  },
+  "watcher": {
+    "ignore": [".opencode/bin/**", ".opencode/runtime/**"]
+  }
+}

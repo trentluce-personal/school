@@ -1,0 +1,21 @@
+-- MySQL 8: DROP TABLES (children → parents)
+-- Transcribed from PVFC SQL - Tagged.pdf; source schema and data preserved.
+
+DROP TABLE IF EXISTS Uses_T;
+DROP TABLE IF EXISTS WorksIn_T;
+DROP TABLE IF EXISTS DoesBusinessIn_T;
+DROP TABLE IF EXISTS EmployeeSkills_T;
+DROP TABLE IF EXISTS Supplies_T;
+DROP TABLE IF EXISTS ProducedIn_T;
+DROP TABLE IF EXISTS OrderLine_T;
+DROP TABLE IF EXISTS Product_T;
+DROP TABLE IF EXISTS ProductLine_T;
+DROP TABLE IF EXISTS Order_T;
+DROP TABLE IF EXISTS Salesperson_T;
+DROP TABLE IF EXISTS Vendor_T;
+DROP TABLE IF EXISTS Skill_T;
+DROP TABLE IF EXISTS RawMaterial_T;
+DROP TABLE IF EXISTS Territory_T;
+DROP TABLE IF EXISTS WorkCenter_T;
+DROP TABLE IF EXISTS Employee_T;
+DROP TABLE IF EXISTS Customer_T;

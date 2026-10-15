@@ -83,3 +83,20 @@ design → Ch. 9 big data → Ch. 11 analytics → Ch. 13 object-oriented modeli
 | | Markdown (readable) | Original (authoritative) |
 |---|---|---|
 | Syllabus | [.md](resources/mis-600-syllabus-fall-2026.md) | [.html](resources/mis-600-syllabus-fall-2026.html) |
+| Ch. 1 — Database environment and development process (44 slides) | [.md](resources/mis-600-chapter-01-slides.md) | [.pdf](resources/mis-600-chapter-01-slides.pdf) |
+| Ch. 2 — Modeling data in the organization (47 slides) | [.md](resources/mis-600-chapter-02-slides.md) | [.pdf](resources/mis-600-chapter-02-slides.pdf) |
+| Ch. 3 — Enhanced E-R model (46 slides) | [.md](resources/mis-600-chapter-03-slides.md) | [.pdf](resources/mis-600-chapter-03-slides.pdf) |
+| Ch. 4 — Logical database design and relational model (49 slides) | [.md](resources/mis-600-chapter-04-slides.md) | [.pdf](resources/mis-600-chapter-04-slides.pdf) |
+| Ch. 5 — Introduction to SQL (44 slides) | [.md](resources/mis-600-chapter-05-slides.md) | [.pptx](resources/mis-600-chapter-05-slides.pptx) |
+
+The chapter Markdown files retain slide numbers and link back to the originals.
+Check the PDFs for diagram notation and image-only tables. Chapter 5 is the Pearson
+textbook PowerPoint; its embedded figures are included in the Markdown copy, and
+source SQL issues are listed near the top.
+
+### Pine Valley SQL starter
+
+[Four MySQL setup scripts and loading instructions](resources/pvfc-mysql/README.md),
+transcribed from [PVFC SQL - Tagged.pdf](resources/PVFC%20SQL%20-%20Tagged.pdf).
+The loading instructions document setup corrections for the Chapter 5 assignment,
+including the inferred supervisor foreign key and allowed finish list.
