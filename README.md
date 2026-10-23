@@ -118,13 +118,12 @@ Junior, undergraduate, Barton School of Business, Info Tech & Mgmt Information S
 |---|---|---|---|
 | [ACCT 210](courses/ACCT-210-Financial-Accounting/) | Financial Accounting | Online, async | Aug 17 – Oct 7 (8 wk) |
 | [MIS 600](courses/MIS-600-Database-Management-Systems/) | Database Management Systems | Hybrid, Wed 7:05 PM | Aug 17 – Dec 10 |
-| DS 350 | Operations Management | Online, async | Oct 8 – Dec 3 (8 wk) |
+| [DS 350](courses/DS-350-Operations-Management/) | Operations Management | Online, async | Oct 8 – Dec 3 (8 wk) |
 | [ENTR 310](courses/ENTR-310-The-Entrepreneurial-Experience/) | The Entrepreneurial Experience | Online, async | Aug 17 – Dec 10 |
 
 ACCT 210 and DS 350 are back-to-back 8-week courses with one day between them.
-No folder for DS 350 yet — nothing to put in it.
 
 ## Status
 
-Structure in place. Three courses loaded with syllabi and schedules; content comes as
+Structure in place. Four courses loaded with syllabi and schedules; content comes as
 the semester does.
