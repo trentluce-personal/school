@@ -127,3 +127,31 @@ ACCT 210 and DS 350 are back-to-back 8-week courses with one day between them.
 
 Structure in place. Four courses loaded with syllabi and schedules; content comes as
 the semester does.
+
+## OpenCode
+
+Run `opencode` from the repo root. The project configuration in
+[`opencode.json`](opencode.json) uses GitHub Copilot, disables conversation sharing,
+and allows all tools without permission prompts, including shell commands,
+edits, and access outside the repo. The agent runs with your user account's
+permissions, so use this setting only for trusted tasks. OpenCode reads this README and
+[`AGENTS.md`](AGENTS.md) for project instructions and discovers the `humanizer`
+skill in [`.opencode/skills/`](.opencode/skills/). The
+[OpenCode harness](.opencode/README.md) mirrors the skills in `.claude/`.
+
+On first use:
+
+1. Run `/connect`, select **GitHub Copilot**, and complete the browser device login.
+   You need a Copilot subscription; VS Code sign-in does not automatically sign
+   OpenCode in.
+2. Run `/models` and choose a model available to your subscription.
+3. Use **Tab** to switch between planning and making changes.
+
+OpenCode stores provider credentials outside the repo in
+`~/.local/share/opencode/auth.json`. Do not put tokens in the project configuration.
+You do not need to run `/init`; the project instructions are already in place.
+
+Quit and restart OpenCode after changing configuration or harness files.
+
+For another machine, install OpenCode using the
+[official installation instructions](https://opencode.ai/docs/#install).
