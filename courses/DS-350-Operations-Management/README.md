@@ -110,9 +110,34 @@ exam coverage is in the [schedule](resources/ds-350-schedule-fall-2026.md).
 
 - `notes/` — chapter and problem-solving notes
 - `assignments/` — homework and discussion work
-- `resources/` — extracted course schedule and future handouts
+- `resources/` — course schedule, module instructions, slides, and practice handouts
 
 | Document | Markdown | Original (authoritative) |
 |---|---|---|
 | Syllabus, including schedule | [Readable copy](../DS350%20Syllabus%20F26.md) | [HTML](../DS350%20Syllabus%20F26.html) |
 | Schedule | [Deadline and topic reference](resources/ds-350-schedule-fall-2026.md) | Included in syllabus |
+
+### Module 1: Chapter 9, management of quality
+
+| Material | Markdown | Original (authoritative) |
+|---|---|---|
+| Slides | [Readable copy](resources/module-1/ch9/quality-management-slides.md) | [HTML](resources/module-1/ch9/C-Quality%20Mgmt%20_A%281%29.html) |
+| Practice problems | [Problems](resources/module-1/ch9/quality-management-practice-problems.md) | [HTML](resources/module-1/ch9/B_Quality%20Mgmt_AP.html) |
+| Instructor practice solutions | [Solutions](resources/module-1/ch9/quality-management-practice-solutions.md) | [HTML](resources/module-1/ch9/B_Quality%20Mgmt_AS%282%29.html) |
+
+### Module 2: Chapters 10 and 5
+
+| Material | Markdown | Original (authoritative) |
+|---|---|---|
+| Module instructions | [Objectives and instructions](resources/module-2/module-2-instructions.md) | [PDF](resources/module-2/module-2-instructions.pdf) |
+| Ch. 10 quality-control slides | [Readable copy](resources/module-2/ch10/quality-control-slides.md) | [HTML](resources/module-2/ch10/quality%20control%281%29.html) |
+| Ch. 10 practice problems | [Problems](resources/module-2/ch10/quality-control-practice-problems.md) | [HTML](resources/module-2/ch10/C_Quality%20Control_AP%282%29.html) |
+| Ch. 10 instructor practice solutions | [Solutions and problem-number crosswalk](resources/module-2/ch10/quality-control-practice-solutions.md) | [HTML](resources/module-2/ch10/C_Quality%20Control_AS.html) |
+| Ch. 10 SPC examples and factor table | [Examples](resources/module-2/ch10/spc-examples.md) | [HTML](resources/module-2/ch10/SPC%20Examples%20mod_A.html) |
+| Ch. 5 capacity-planning slides | [Readable copy](resources/module-2/ch5/capacity-planning-slides.md) | [HTML](resources/module-2/ch5/E-Capacity%20Planning%20_A.html) |
+| Ch. 5 practice problems | [Problems](resources/module-2/ch5/capacity-planning-practice-problems.md) | [HTML](resources/module-2/ch5/D_Strategic%20Capacity%20Planning_AP%281%29.html) |
+| Ch. 5 instructor practice solutions | [Solutions](resources/module-2/ch5/capacity-planning-practice-solutions.md) | [HTML](resources/module-2/ch5/D_Strategic%20Capacity%20Planning_AS%282%29.html) |
+
+The Markdown copies identify image-only charts and formulas that require the
+original view. The Chapter 10 solutions also note source numbering differences
+and inconsistencies in the complaint example and chart-selection wording.
