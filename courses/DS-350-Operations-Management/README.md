@@ -141,3 +141,26 @@ exam coverage is in the [schedule](resources/ds-350-schedule-fall-2026.md).
 The Markdown copies identify image-only charts and formulas that require the
 original view. The Chapter 10 solutions also note source numbering differences
 and inconsistencies in the complaint example and chart-selection wording.
+
+### Module 5: Chapter 3, forecasting
+
+| Material | Markdown | Original (authoritative) |
+|---|---|---|
+| Module instructions | [Objectives and instructions](resources/module-5/module-5-instructions.md) | [PDF](resources/module-5/module-5-instructions.pdf) |
+| Ch. 3 forecasting slides | [Readable text companion](resources/module-5/ch3/forecasting-slides.md) | [HTML](resources/module-5/ch3/J-Forecasting%20_A%281%29.html) |
+| Ch. 3 practice problems | [Problems 2, 4, 5, 8, and 21](resources/module-5/ch3/forecasting-practice-problems.md) | [PDF](resources/module-5/ch3/I_Forecasting_AP%281%29.pdf) |
+
+The slides include image-only figures and examples that require the HTML view.
+Their MSE formula uses `n - 1` as the denominator. The module instructions contain
+a "Module 6" label in the course-objectives section; the readable copy notes it.
+
+### Exam preparation
+
+| Material | Markdown | Original (authoritative) |
+|---|---|---|
+| Instructor study guide for Exams 1, 2, and 3 | [Chapter focus and exam format](resources/exams/exam-study-guide.md) | [HTML](resources/exams/DS%20350%20Exam%20Study%20Guide%20Sue.html) |
+| Exam 1 formula sheet | [Text formulas and chart-factor table](resources/exams/exam-1/formula-sheet.md) | [HTML](resources/exams/exam-1/Formula%20Sheet_1.html) |
+| Exam 2 formula sheet | [Readable formulas](resources/exams/exam-2/formula-sheet.md) | [HTML](resources/exams/exam-2/Formula%20sheet_2.html) |
+
+Use the original Exam 1 formula sheet for image-only control-limit equations.
+The study guide refers to an `A3` factor; the formula sheet's table labels it `A2`.
