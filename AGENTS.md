@@ -16,9 +16,10 @@ course README before changing course materials.
 
 ## Coursework and sources
 
-- Follow the course's stated rules for AI assistance and WSU's academic integrity
-  policy. Check the relevant syllabus and assignment instructions before helping
-  with graded work; ask when the permitted scope is unclear.
+- The user confirms that work they request help with in this repo permits AI
+  assistance. Do not repeatedly ask for permission when the rules are silent.
+  Follow stated course rules and WSU's academic integrity policy; check the
+  relevant syllabus and assignment instructions for explicit restrictions.
 - Do not invent citations, assignment requirements, grades, or deadlines.
 - Keep original syllabi and handouts unchanged and authoritative. Markdown copies
   belong next to the originals.

@@ -56,3 +56,5 @@ If I want certainty, ask in the Ask My Instructor forum. Not worth an email over
 ## Files here
 - `assignment-prompt.docx` — the Week 1 module doc, includes the target diagram (Figure 4)
 - `submission-instructions.txt` — the Blackboard submission steps
+- `week-1-drawio.drawio.png` — the diagram
+- `MIS600_Week1_Luce_Trent.docx` — the Word document
